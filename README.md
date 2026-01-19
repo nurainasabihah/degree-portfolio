@@ -11,6 +11,7 @@ This repository contains my degree projects and learning progress.
 - Twilight Treasures Web System (Web Programming)
 - EduFlash (Mobile Programming)
 - Wedding Card (Mobile Programming)
+- Diena Design Database ERD (TTTT1964) - [Diena Design (Database ERD)](./diena-design-database-erd)
 
 ## 🔗 Links
 - LinkedIn: (add later)
