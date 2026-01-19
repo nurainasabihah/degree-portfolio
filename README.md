@@ -1,2 +1,16 @@
-# degree-portfolio
-My degree projects portfolio (UKM-Network Technology)
+# Degree Portfolio - Nur Aina
+
+Hi! I'm a 3rd year Network Technology student at UKM.  
+This repository contains my degree projects and learning progress.
+
+## 📌 Projects
+- SiswaRide (Human Computer Interaction)
+- Twilight Treasures (Database)
+- Blood Cell Classification (Artificial Intelligence)
+- Airbnb (Object-Oriented SOftware Engineering)
+- Twilight Treasures Web System (Web Programming)
+- EduFlash (Mobile Programming)
+- Wedding Card (Mobile Programming)
+
+## 🔗 Links
+- LinkedIn: (add later)
