@@ -4,14 +4,14 @@ Hi! I'm a 3rd year Network Technology student at UKM.
 This repository contains my degree projects and learning progress.
 
 ## 📌 Projects
-- SiswaRide (Human Computer Interaction)
+- SiswaRide (Human Computer Interaction) - [SiswaRide (HCI)](./siswaRide-hci)
 - Twilight Treasures (Database)
 - Blood Cell Classification (Artificial Intelligence)
-- Airbnb (Object-Oriented SOftware Engineering)
+- Airbnb (Object-Oriented SOftware Engineering) - [Roomly (OOSE)](./roomly-oose)
 - Twilight Treasures Web System (Web Programming)
 - EduFlash (Mobile Programming)
 - Wedding Card (Mobile Programming)
 
 ## 🔗 Links
 - LinkedIn: (add later)
-- [Roomly (OOSE)](./roomly-oose)
+
